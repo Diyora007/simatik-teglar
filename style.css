@@ -1,0 +1,43 @@
+body{
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+.ota{
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    padding-top: 20px opx;
+}
+h3{
+    text-align: center;
+    font-size: 40px;
+}
+.left{
+    background-color: red;
+    width: 400px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:40px ;
+    color: white;
+}
+.right{
+    background-color: red;
+    width: 400px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:40px ;
+    color: white;
+}
+.ona{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+.mt-100{
+    margin-top: 100px;
+}
